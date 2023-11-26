@@ -1,0 +1,12 @@
+import "./main.css";
+
+import Calculator from "./calculator/Calculator";
+function App() {
+  return (
+    <>
+      <Calculator />
+    </>
+  );
+}
+
+export default App;
